@@ -25,8 +25,9 @@ Ligne1/Ligne2/Ligne3/Ligne4/Ligne5/Ligne6/Ligne7/Ligne8 (w|b) (-|KQkq) (-|a 3) (
 Objectifs
 1. Ecrire un représentation du plateau complète sans bug
    1. Représentation du plateau
-   2. Déplacement des pièces possibles
-   3. Déplacement illégales
+   2. Import et export d'une position à travers la notation FEN
+   3. Déplacement des pièces possibles
+   4. Déplacement illégales
 2. Ecrire un moteur
    1. Search
    2. Evaluation
